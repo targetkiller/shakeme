@@ -7,6 +7,6 @@ shakeme
 
 操作很简单，就是摇！
 
-(体验地址)[http://targetkiller.net/shakeme/index.html]。
+[体验地址](http://targetkiller.net/shakeme/index.html)
 
 坚持20秒哦～
