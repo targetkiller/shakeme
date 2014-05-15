@@ -9,4 +9,4 @@ shakeme
 
 (体验地址)[http://targetkiller.net/shakeme/index.html]。
 
-坚持一分钟哦～
+坚持20秒哦～
